@@ -1,0 +1,11 @@
+.s7responsiveContainer{width:100%}
+.fluidimage{max-width:100%}
+.s7responsiveViewer{width:100%;height:auto}
+figure.ni-dynamic-media-container>figcaption{font-size:13px;padding-top:6px;color:#666}
+figure.ni-dynamic-media-container>figcaption>.title{font-weight:bold}
+.ni-caption-menu{position:absolute;bottom:28px;right:0;background-color:rgba(43,51,63,0.7);color:#fff;display:none;font-weight:400;max-height:210px;overflow:auto;line-height:1.4em;width:140px}
+.s7closedcaptionbutton:hover .ni-caption-menu{display:block}
+.ni-caption-menu ul{width:100%;margin:0;padding:0}
+.ni-caption-menu .ni-caption-menu-item{list-style:none;margin:0;padding:.2em 1em;text-align:center}
+.ni-caption-menu .ni-caption-menu-item:not(.selected):hover{background-color:rgba(115,133,159,0.5)}
+.ni-caption-menu-item.selected{background-color:#2471d6;color:#2b333f}
